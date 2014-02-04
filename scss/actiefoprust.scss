@@ -1,0 +1,22 @@
+$donkerblauw : rgb( 0,54,101);
+$lichtblauw : rgb( 0, 174, 239);
+
+
+
+h1 {
+	color: $donkerblauw;
+	font-weight: bold;
+	font-size: 28px;
+	small {
+		color: $lichtblauw;
+	}
+}
+
+label {
+	color: $donkerblauw;
+	font-weight: bold;
+}
+.kbcheader {
+	background: #efeff0;
+
+}

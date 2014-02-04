@@ -1,0 +1,17 @@
+h1 {
+  color: #003665;
+  font-weight: bold;
+  font-size: 28px;
+}
+h1 small {
+  color: #00aeef;
+}
+
+label {
+  color: #003665;
+  font-weight: bold;
+}
+
+.kbcheader {
+  background: #efeff0;
+}
